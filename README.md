@@ -1,4 +1,4 @@
 # google
-Mohamed oullami;
-Lionel Doussou-yovo;
+Mohamed Oullami;
+Lionel Dossou-Yovo;
 Nicolas Lucain;
